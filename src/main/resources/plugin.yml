@@ -1,0 +1,7 @@
+author: 68pingy
+version: 1.0
+description: Give yourself a nickname!
+main: io.pingy.Main
+commands:
+    nick:
+        description: Nick yourself!
